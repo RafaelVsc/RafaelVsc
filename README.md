@@ -29,8 +29,8 @@ Sou desenvolvedor Python com foco em testes e2e utilizando Python e técnicas de
 [![Visits Badge](https://badges.pufler.dev/visits/RafaelVsc/RafaelVsc?style=for-the-badge)](https://github.com/RafaelVsc/RafaelVsc)
 ![Repos Badge](https://badges.pufler.dev/repos/RafaelVsc?style=for-the-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelVsc&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVsc&layout=compact&theme=react)](https://github.com/RafaelVsc/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RafaelVsc&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVsc&layout=compact&theme=gotham)](https://github.com/RafaelVsc/github-readme-stats)
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
