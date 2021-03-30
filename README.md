@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 Adoror criar automações para resolver problemas 🤖.
 
-Sou desenvolvedor Python com foco em testes e2e utilizando Python e técnicas de BDD. :computer:
+Sou desenvolvedo com foco em testes e2e utilizando Python e técnicas de BDD. :computer:
 
 
 - 🔭  Atualmente trabalho na **Compasso Uol**
 - 📚  Buscando colaborar com projetos em Front-end usando automação de testes com Selenium
 - 🤝  Posso te ajudar com alguns conceitos de Front-end e testes e2e
-- 💬  Sobre mim: Curto tecnologias, seriados, games e Xbox
+- 💬  Sobre mim: Curto tecnologias, programação, seriados, games, HQ'S e livros
 - 🤖  Pergunte-me sobre QA de software e automação de testes...
 
 [![Visits Badge](https://badges.pufler.dev/visits/RafaelVsc/RafaelVsc?style=for-the-badge)](https://github.com/RafaelVsc/RafaelVsc)
