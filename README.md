@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - 🤖 Ask me about automated tests using python and selenium...
 
 -->
-Adoror criar automações 🤖.
+Adoro criar automações para tarefas maçantes 🤖.
 
-Sou desenvolvedor com foco em testes e2e utilizando Python e técnicas de BDD. :computer:
+Sou desenvolvedor com foco em testes e2e utilizando Python, Ruby e Javascript seguindo as melhores técnicas e padronizações do mercado :computer:
 
 
 - 🔭  Atualmente trabalho na **Compass Uol**
 - 📚  Buscando colaborar com projetos em Front-end usando automação de testes com Selenium/Robot Framework
 - 🤝  Posso te ajudar com lógica de programação, desenvolvimento front-end e testes automatizados
 - 💬  Sobre mim: Curto tecnologias, programação, seriados, games e HQ's
-- 🤖  Pergunte-me sobre Qualidade de software e automação de testes...
+- 🤖  Pergunte-me sobre Qualidade de software e automação de testes (mobile, backend, frontend)...
 
 [![Visits Badge](https://badges.pufler.dev/visits/RafaelVsc/RafaelVsc?style=for-the-badge)](https://github.com/RafaelVsc/RafaelVsc)
 ![Repos Badge](https://badges.pufler.dev/repos/RafaelVsc?style=for-the-badge)
