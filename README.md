@@ -51,7 +51,7 @@ Sou desenvolvedor com foco em testes e2e utilizando Python, Ruby e Javascript se
 <code><img height="45" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"></code>
 <code><img height="45" src="https://xesque.rocketseat.dev/platform/tech/mongodb.svg"></code>
 
-
+![Snake animation](https://github.com/RafaelVsc/RafaelVsc/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
