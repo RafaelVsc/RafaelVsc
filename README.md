@@ -54,7 +54,7 @@ Sou desenvolvedor com foco em testes e2e utilizando Python, Ruby e Javascript se
 ![Snake animation](https://github.com/RafaelVsc/RafaelVsc/blob/output/github-contribution-grid-snake.svg)
 
 
-<!--
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -66,4 +66,3 @@ Sou desenvolvedor com foco em testes e2e utilizando Python, Ruby e Javascript se
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png"></code> 
--->
