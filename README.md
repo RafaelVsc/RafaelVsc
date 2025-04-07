@@ -1,5 +1,8 @@
 ### Olá, eu sou Rafael <img src="./hi.gif" width="30px">
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=00DFA2&width=600&lines=Engenheiro+de+Qualidade+de+Software+%7C+SDET+%F0%9F%9A%80++)](https://git.io/typing-svg)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelvsc88@gmail.com)](mailto:rafaelvsc88@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vescio/)](https://www.linkedin.com/in/rafael-vescio/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelVsc)](https://github.com/RafaelVsc)
@@ -15,15 +18,12 @@ Here are some ideas to get you started:
 - 🤖 Ask me about automated tests using python and selenium...
 
 -->
-Adoro criar automações para tarefas maçantes 🤖.
+:computer: Sou Engenheiro de Qualidade | SDET e nas horas vagas, compartilho conhecimento sobre qualidade de software e desenvolvimento 
+no meu canal [QAverso](https://www.youtube.com/@QAverso) 📺
 
-Sou desenvolvedor com foco em testes e2e utilizando Python, Ruby e Javascript seguindo as melhores técnicas e padronizações do mercado :computer:
-
-
-- 🔭  Atualmente trabalho na **Compass Uol**
-- 📚  Buscando colaborar com projetos em Front-end usando automação de testes com Selenium/Robot Framework
-- 🤝  Posso te ajudar com lógica de programação, desenvolvimento front-end e testes automatizados
-- 💬  Sobre mim: Curto tecnologias, programação, seriados, games e HQ's
+- 🔭  Atualmente trabalho em projeto com OpenFinance
+- 📚  Buscando colaborar com projetos de desenvolvimento
+- 🤝  Posso te ajudar com lógica de programação, testes automatizados, testes de performance
 - 🤖  Pergunte-me sobre Qualidade de software e automação de testes (mobile, backend, frontend)...
 
 [![Visits Badge](https://badges.pufler.dev/visits/RafaelVsc/RafaelVsc?style=for-the-badge)](https://github.com/RafaelVsc/RafaelVsc)
